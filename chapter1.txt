@@ -1,0 +1,1 @@
+this is the chapter 1 inside our story folder. It's also the part of day 70 in 100 day of code with python. It's been a great journey and this is very crucial day in this journey
